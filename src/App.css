@@ -1,0 +1,31 @@
+.container {
+  border: 3px solid #800080;
+  border-radius: 5px;
+  width: 300px;
+  margin: auto;
+  margin-top: 10%;
+}
+
+Button {
+  width: 75px;
+  height: 60px;
+  font-size: 20px;
+}
+
+.display {
+  width: 97%;
+  height: 70px;
+  text-align: center;
+  font-size: 25px;
+}
+
+sup {
+  font-size: smaller;
+}
+
+.test {
+  margin-top: 15%;
+  color: whitesmoke;
+  font-size: 20px;
+  background-color: #192734;
+}
